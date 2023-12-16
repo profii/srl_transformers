@@ -26,11 +26,11 @@ Achitecture: BiLSTM.
 - `srl_bilstm.ipynb`: This file contains the BiLSTM model implementation for SRL, detailing the architecture, training, and performance evaluation.
 
 ## Model Scores
-Here we present the best performance scores of our models on the SRL task:\
+Here we present the best performance scores of our models on the SRL task:
 
-F1-score for Codalab challenge on Dev: **0.742** (FLAN-T5), 0.740 (T5).\
+F1-score for Codalab challenge on Dev: **0.742** (FLAN-T5), 0.740 (T5).
 
-F1-score for Codalab challenge on Test: **0.863** (FLAN-T5), 0.862 (T5).\
+F1-score for Codalab challenge on Test: **0.863** (FLAN-T5), 0.862 (T5).
 
 ## Input/Output Examples
 Below are some examples demonstrating the input to our models and their corresponding outputs:
