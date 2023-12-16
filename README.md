@@ -8,7 +8,7 @@ We use two datasets:
 
 -- CoNLL-2003 (Sang and De Meulder, 2003).
 
-Models: T5 and FLAN-T5.
+Seq2seq encoder-decoder models: T5 and FLAN-T5.
 
 Achitecture: BiLSTM.
 
